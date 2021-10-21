@@ -1,4 +1,4 @@
-# firebase-login
+# login
 
 ## Project setup
 ```
